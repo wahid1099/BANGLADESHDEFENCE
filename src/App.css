@@ -1,11 +1,11 @@
 .App {
   text-align: center;
+  background-image: url("images/bg3.jpg");
+  background-size:contain;
+  background-repeat: repeat;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
